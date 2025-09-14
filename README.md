@@ -21,6 +21,8 @@ Este repositório reúne meus projetos acadêmicos desenvolvidos ao longo da gra
   
 </div>
 
-## 🎯 Objetivo
+## 🎲 Objetivo
 
 Apresentar meus projetos no git e github, é deixar ele a disposição para quem quiser aprender e analizalos.
+
+
